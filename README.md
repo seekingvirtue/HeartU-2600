@@ -14,4 +14,4 @@ You're never truly alone. 🕹️💖
 
 ## License
 
-This project is for educational and non-commercial use.
+Please see the license file for further details.
