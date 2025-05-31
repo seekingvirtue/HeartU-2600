@@ -15,3 +15,6 @@ You're never truly alone. 🕹️💖
 ## License
 
 Please see the license file for further details.
+
+What it should look like loaded:
+![image](https://github.com/user-attachments/assets/cb2692db-dd6c-4cd1-98d0-d19fe2afba02)
